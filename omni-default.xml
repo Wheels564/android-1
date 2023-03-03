@@ -12,9 +12,6 @@
   <!-- include registered repos -->
   <include name="omni-private.xml" />
   
-  <!-- include wheels564 repos -->
-  <include name="omni-wheels564.xml" />
-
   <!-- OmniROM Projects -->
   <project path="android" name="android" remote="omnirom" revision="android-9.0" />
 
