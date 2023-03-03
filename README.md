@@ -78,4 +78,4 @@ Changes to those repositories are still accessible on gerrit
 
 You can also build without those repositories if you dont need or want the features that are in them. In that case simply remove the include
 
-<include name="omni-private.xml" />
+     <include name="omni-private.xml" />
